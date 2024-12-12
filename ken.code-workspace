@@ -5,6 +5,18 @@
 		},
 		{
 			"path": "../kendono"
+		},
+		{
+			"path": "../archive"
+		},
+		{
+			"path": "../develop"
+		},
+		{
+			"path": "../package"
+		},
+		{
+			"path": "../website"
 		}
 	]
 }
